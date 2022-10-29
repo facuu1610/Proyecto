@@ -1,0 +1,95 @@
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.xml
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Form2.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.inicio.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Socios.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cuotas.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cursos.resources
+C:\Users\Docente\Downloads\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Docentes.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Google.Protobuf.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\ZstdNet.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\System.Buffers.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.xml
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.LOGIN.exe.config
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cuotas.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cursos.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Docentes.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.inicio.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Socios.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Login.resources
+C:\Users\Renata\Downloads\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Menu.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Google.Protobuf.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\ZstdNet.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\System.Buffers.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.xml
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.LOGIN.exe.config
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cuotas.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cursos.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Docentes.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Login.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Menu.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.inicio.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Socios.resources
+C:\Users\Docente\Desktop\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Google.Protobuf.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\ZstdNet.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\System.Buffers.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\MySql.Data.xml
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cuotas.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Cursos.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Docentes.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Login.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Menu.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.inicio.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.Socios.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\PoliTech.exe.config
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\PoliTech.exe
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\bin\Debug\PoliTech.pdb
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.PoliTech.exe.config
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\PoliTech.Properties.Resources.resources
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\PoliTech.exe
+C:\Users\alepi\Downloads\TechnicalSoftware (2)\TechnicalSoftware\TechProgram 2da Entrega\LOGIN\LOGIN\LOGIN\obj\Debug\PoliTech.pdb
